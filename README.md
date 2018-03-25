@@ -18,7 +18,7 @@ To measure how well our Kalman filter performs, root mean squared error comparin
 
 These three steps (initialize, predict, update) plus calculating RMSE encapsulate the entire extended Kalman filter project.
 
-#### Files in the Github src Folder
+#### Files in the [src Folder](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/tree/master/src)
 
 * main.cpp - communicates with the Simulator receiving data measurements, calls a function to run the Kalman filter, calls a function to calculate RMSE
 * FusionEKF.cpp - initializes the filter, calls the predict function, calls the update function
