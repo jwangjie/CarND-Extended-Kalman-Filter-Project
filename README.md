@@ -36,8 +36,12 @@ Here is a brief overview of what happens when you run the code files:
 ## Kalman Filter Algorithm
 
 There are many intuitive materials taking about the Kalman Filter, thus it’s not necessary to add one more. Here are some highlights to myself.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Basic_concept_of_Kalman_filtering.svg" 
+       width="500px" height="280px"/>
+</p>
 
-#### Prediction and Update 
+#### Prediction
 
 <p align="center">
   <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/State%20and%20Convariance.png" 
@@ -73,6 +77,7 @@ There are many intuitive materials taking about the Kalman Filter, thus it’s n
 4.	[Sensor Fusion and Object Tracking using an Extended Kalman Filter Algorithm](https://medium.com/@mithi/object-tracking-and-fusing-sensor-measurements-using-the-extended-kalman-filter-algorithm-part-1-f2158ef1e4f0)
 5.	[Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
 6.	[Kalman Filter Matrices](https://www.udacity.com/wiki/cs373/kalman-filter-matrices)
+7.  [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
 
 
 
