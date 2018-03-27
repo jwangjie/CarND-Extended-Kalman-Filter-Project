@@ -2,6 +2,8 @@
 
 In this project we utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
+![alt text](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/EKF.GIF)
+
 For project instructions, check [this](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project). 
 
 ## Overview of a Kalman Filter: Initialize, Predict, Update
