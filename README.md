@@ -44,6 +44,8 @@ There are many intuitive materials taking about the Kalman Filter, thus it’s n
 #### Prediction
 
 <p align="center">
+  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/KF%20Prediction.png" 
+       width="460px" height="260px"/>
   <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/State%20and%20Convariance.png" 
        width="460px" height="260px"/>
 </p>
@@ -56,7 +58,7 @@ There are many intuitive materials taking about the Kalman Filter, thus it’s n
 
 #### Math
 <p align="center">
-  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/Kalman%20Filter%20Equaitons.png" width="460px" height="280px"/>
+  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/Kalman%20Filter%20Equaitons.png" width="460px" height="300px"/>
 </p>
 
 * x - state vector
