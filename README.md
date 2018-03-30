@@ -43,7 +43,17 @@ The process flow can be shown as
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Basic_concept_of_Kalman_filtering.svg" 
-       width="600px" height="320px"/>
+       width="600px" height="300px"/>
+</p>
+
+
+#### The State Transition Function
+
+<p align="center">
+  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/KF1.png" 
+       width="700px" height="380px"/>
+  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/The%20General%20Control%20System%20Block-Diagram.png" 
+       width="600px" height="300px"/>
 </p>
 
 #### Prediction
@@ -64,6 +74,8 @@ The process flow can be shown as
 #### Math
 <p align="center">
   <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/Kalman%20Filter%20Equaitons.png" width="460px" height="300px"/>
+  <img src="https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/KF2.png" 
+width="700px" height="220px"/>
 </p>
 
 * x - state vector
