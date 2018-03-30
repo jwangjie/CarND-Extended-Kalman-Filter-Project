@@ -37,10 +37,13 @@ Here is a brief overview of what happens when you run the code files:
 
 ## Kalman Filter Algorithm
 
-There are many intuitive materials taking about the Kalman Filter, thus it’s not necessary to add one more. Here are some highlights to myself.
+There are many intuitive materials taking about the Kalman Filter, thus it’s not necessary to add one more. Here are some key points to myself.
+
+The process flow can be shown as
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Basic_concept_of_Kalman_filtering.svg" 
-       width="500px" height="280px"/>
+       width="600px" height="320px"/>
 </p>
 
 #### Prediction
