@@ -97,6 +97,7 @@ width="700px" height="220px"/>
 5.	[Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
 6.	[Kalman Filter Matrices](https://www.udacity.com/wiki/cs373/kalman-filter-matrices)
 7.  [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+8.  [Kalman Filter, Extended Kalman Filter, Unscented Kalman Filter](https://medium.com/@kastsiukavets.alena/kalman-filter-extended-kalman-filter-unscented-kalman-filter-dbbd929f83c5)
 
 
 
