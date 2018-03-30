@@ -1,6 +1,6 @@
 # Extended Kalman Filter 
 
-In this project we utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
+In this project we utilized a kalman filter to estimate the state of a moving car with noisy lidar and radar measurements in a simulator. A Kalman Filter to process only laser measurements was also conducted [here](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/tree/master/Laser-Measurement-Kallam-Filter). 
 
 ![alt text](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/EKF.GIF)
 
