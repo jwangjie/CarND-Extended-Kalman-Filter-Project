@@ -11,4 +11,4 @@ Follow the following step
 7. cd ../Laser-Measurement-Kallam-Filter
 8. mkdir build && cd build
 9. cmake .. && make
-10. ./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt
+10. ./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt output.txt
