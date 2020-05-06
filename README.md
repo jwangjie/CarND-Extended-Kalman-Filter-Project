@@ -1,10 +1,25 @@
 # Extended Kalman Filter 
 
-In this project we utilized a kalman filter to estimate the state of a moving car with noisy lidar and radar measurements in a simulator. A Kalman Filter to process only laser measurements was also conducted [here](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/tree/master/Laser-Measurement-Kallam-Filter). 
+In this project we utilized a kalman filter to estimate the state of a moving car with noisy lidar and radar measurements in a simulator. A Kalman Filter to process only laser measurements was also conducted [here](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/tree/master/Laser-Measurement-Kallam-Filter). For project instructions, check [this](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project). 
 
 ![alt text](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/EKF.GIF)
 
-For project instructions, check [this](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project). 
+---
+* Why use Kalman Filter: sensor measurement & physical model are not perfect
+
+* How: assuming sensor measurements & physical model are Gaussian distributions
+     * Predict states based on physical models
+     * Update states based on sensor measurements 
+     
+* KF / Extended KF / [Unscented KF](https://github.com/jwangjie/SDC-Unscented-Kalman-Filter)
+  * Physical Model
+    * Linear: KF
+    * Non-linear: EKF / UKF
+      * Linearization approximation
+        * One point using Taylor expansion: EKF
+        * Multi-points using Sigma points method: UKF 
+---
+
 
 ## Overview of a Kalman Filter: Initialize, Predict, Update
 ![alt text](https://github.com/jwangjie/SDC-Extended-Kalman-Filter-Project/blob/master/data/The%20Sensor%20Fusion%20Flow%20using%20Kalman%20Filter%20algorithm.png)
